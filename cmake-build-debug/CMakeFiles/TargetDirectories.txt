@@ -1,3 +1,0 @@
-/Volumes/RyanSSD/Code/Cpp/cmake-build-debug/CMakeFiles/Cpp.dir
-/Volumes/RyanSSD/Code/Cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Volumes/RyanSSD/Code/Cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
